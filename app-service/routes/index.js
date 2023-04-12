@@ -4,5 +4,4 @@ const admin = require('./adminRoute');
 
 router.use('/', admin);
 
-
 module.exports = router;
